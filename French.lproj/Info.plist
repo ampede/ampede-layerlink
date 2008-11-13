@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundleDisplayName</key>
+    <string>LayerLink</string>
+    <key>CFBundleExecutable</key>
+    <string>LayerLink</string>
+    <key>CFBundleIconFile</key>
+    <string>motion-effect.icns</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.ampede.layerlink.bundle</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundlePackageType</key>
+    <string>BNDL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleVersion</key>
+    <string>3</string>
+    <key>SIMBLTargetApplications</key>
+    <array>
+      <dict>
+        <key>MinBundleVersion</key>
+        <integer>1</integer>
+        <key>BundleIdentifier</key>
+        <string>com.apple.motion</string>
+        <key>MaxBundleVersion</key>
+        <integer>2</integer>
+      </dict>
+    </array>
+  </dict>
+</plist>

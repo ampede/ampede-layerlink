@@ -1,0 +1,30 @@
+/* Open LayerLink About window */
+"About LayerLink" = "About LayerLink";
+
+/* Illustrator file chooser dialog window title */
+"Choose an Illustrator 10 or Later Document" = "Choose an Illustrator 10 or Later Document";
+
+/* Illustrator file chooser dialog accept button */
+"Import as Project" = "Import as Project";
+
+/* Import as Project... menu item in Retail Motion */
+"Import as Project..." = "Import as Project...";
+
+/* Import as Project... menu item in Retail Motion 2 */
+"Motion 2 Import as Project..." = "Import as Project…";
+
+/* Import an Illustrator document as a Motion project */
+"Import Illustrator as Project..." = "Import Illustrator as Project...";
+
+/* Import an Illustrator document as a Motion project in Motion 2 */
+"Motion 2 Import Illustrator as Project..." = "Import Illustrator as Project…";
+
+/* Go to LayerLink purchase web page at ampede.com */
+"Purchase LayerLink..." = "Purchase LayerLink...";
+
+/* Launch LicenseControl application */
+"Register LayerLink..." = "Register LayerLink...";
+
+/* Launch LicenseControl application */
+"Unregister LayerLink..." = "Unregister LayerLink...";
+
